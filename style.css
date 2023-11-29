@@ -1,0 +1,28 @@
+body
+{
+  margin: 0;
+}
+.First-box
+{
+  background-color: red;
+  float: left;
+  height: 100px;
+  width: 100px;
+  Text-align:center;
+}
+.Second-box
+{
+  background-color: blue;
+    float: left;
+  height: 100px;
+  width: 100px;
+  Text-align:center;
+}
+.Third-box
+{
+  background-color: yellow;
+    float: left;
+  height: 100px;
+  width: 100px;
+    Text-align:center;
+}
